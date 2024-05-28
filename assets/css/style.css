@@ -1,0 +1,119 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  body{
+    border: 1280px;
+  }
+  div{
+   margin-left: auto;
+   min-width: auto;
+   min-height: auto;
+   border: 1280px;
+  }
+.cuppon{
+  max-width: 120px;
+  min-width: 12px;
+}
+.container{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  min-width: auto;
+  max-width: 200px;
+}
+
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  nav{
+    max-width: auto;
+    min-width: 320px;
+    max-height: auto;
+    min-height: 62px;
+    width:100%;
+    }
+div {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-right: 8px;
+  width: auto;
+  max-width: 1280px;
+  min-width: 320px;
+  max-height: auto;
+  min-height: 62px;
+  justify-content: end;
+  text-align: center;
+} 
+.col{
+  margin-left: 18px;
+  margin-bottom: 40px;
+  max-width: auto;
+}
+footer{
+  max-width: 1280px;
+}
